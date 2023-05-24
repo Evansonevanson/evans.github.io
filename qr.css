@@ -49,7 +49,7 @@ p {
     height: 300px;
     background-color: aqua;
     border-radius: 10px;
-    background-image: url('/images/image-qr-code.png');
+    background-image: url(images/image-qr-code.png);
     background-position: center;
     background-size: contain;
 }
